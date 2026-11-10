@@ -48,7 +48,7 @@ Linear(128, 10)
 
 ## Датасет
 
-[Kaggle Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer) — классификация рукописных цифр 0–9, изображения 28×28 в развёрнутом виде, нормализация в диапазон [0, 1].
+[Kaggle Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer): классификация рукописных цифр 0–9, изображения 28×28 в развёрнутом виде, нормализация в диапазон [0, 1].
 
 ---
 
